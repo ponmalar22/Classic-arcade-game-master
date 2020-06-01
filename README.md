@@ -27,7 +27,7 @@ There are two classes used in this game.
 
  there are multiple enimies in the game. Each enmey has its own x , y coordinates and random speed.
 
- Update and render functions are used in the prototype od enmey class.
+ Update and render functions are used in the prototype of enmey class.
 
  # how to play
 
